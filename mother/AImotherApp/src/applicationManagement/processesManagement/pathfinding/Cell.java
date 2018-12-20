@@ -1,4 +1,4 @@
-package applicationManagement.processesManagement.controllers;
+package applicationManagement.processesManagement.pathfinding;
 
 //definition of a grid's cell
 public class Cell {
